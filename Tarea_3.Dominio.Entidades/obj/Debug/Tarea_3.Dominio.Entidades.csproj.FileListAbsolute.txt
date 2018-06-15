@@ -1,0 +1,5 @@
+C:\Users\mcalvo96\Source\Repos\Tarea_3.UI2\Tarea_3.Dominio.Entidades\bin\Debug\Tarea_3.Dominio.Entidades.dll
+C:\Users\mcalvo96\Source\Repos\Tarea_3.UI2\Tarea_3.Dominio.Entidades\bin\Debug\Tarea_3.Dominio.Entidades.pdb
+C:\Users\mcalvo96\Source\Repos\Tarea_3.UI2\Tarea_3.Dominio.Entidades\obj\Debug\Tarea_3.Dominio.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\mcalvo96\Source\Repos\Tarea_3.UI2\Tarea_3.Dominio.Entidades\obj\Debug\Tarea_3.Dominio.Entidades.dll
+C:\Users\mcalvo96\Source\Repos\Tarea_3.UI2\Tarea_3.Dominio.Entidades\obj\Debug\Tarea_3.Dominio.Entidades.pdb
