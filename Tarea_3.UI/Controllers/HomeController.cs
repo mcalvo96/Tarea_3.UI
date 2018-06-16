@@ -16,5 +16,20 @@ namespace Tarea_3.UI.Controllers
         {
             return View();
         }
+
+        public ActionResult PersonaJuridicas()
+        {
+            return View();
+        }
+
+        public ActionResult Objetos()
+        {
+            return View();
+        }
+
+        public ActionResult Vehiculos()
+        {
+            return View();
+        }
     }
 }

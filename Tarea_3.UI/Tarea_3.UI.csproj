@@ -199,6 +199,9 @@
     <Content Include="Scripts\bootstrap.js.map" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Personas.cshtml" />
+    <Content Include="Views\Home\PersonaJuridicas.cshtml" />
+    <Content Include="Views\Home\Objetos.cshtml" />
+    <Content Include="Views\Home\Vehiculos.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
