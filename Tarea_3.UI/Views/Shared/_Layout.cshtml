@@ -9,17 +9,32 @@
     @Scripts.Render("~/bundles/javascript")
 </head>
 <body>
-    <header>
-        <div class="container">
-            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                    <div class="navbar-nav">
-                                @Html.ActionLink("Informacion Basica", "Index", "Home")
-                    </div>
-                </div>
-            </nav>
+    <div class="jumbotron text-center" style="margin-bottom:0">
+        <h1>Registro Policial</h1>
+    </div>
+
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link">@Html.ActionLink("Informacion Basica", "Index", "Home")</a>                    
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link">@Html.ActionLink("Personas", "Personas", "Home")</a>                    
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link">@Html.ActionLink("Personas Juridicas", "Index", "Home")</a>                    
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link">@Html.ActionLink("Vehiculos", "Index", "Home")</a>                    
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link">@Html.ActionLink("Objetos", "Index", "Home")</a>
+                </li>
+            </ul>
         </div>
-    </header>
+    </nav>
+
     <div class="container">
         <section class="main row">
             @RenderBody()

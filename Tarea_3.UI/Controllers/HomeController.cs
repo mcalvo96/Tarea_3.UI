@@ -12,5 +12,9 @@ namespace Tarea_3.UI.Controllers
         {
             return View();
         }
+        public ActionResult Personas()
+        {
+            return View();
+        }
     }
 }
